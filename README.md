@@ -1,6 +1,6 @@
 ## LeetCode
 
-Este repositório contém diversas soluções para problemas do LeetCode.
+Este repositório contém diversas soluções em Python para problemas do LeetCode.
 
 #### Como usar
 
